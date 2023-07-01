@@ -1,0 +1,38 @@
+.imagePopup {
+  height: 410px;
+}
+/* .popup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+} */
+.popup-image {
+  background-color: #ffffff;
+  height: 60vh;
+  width: 40vw;
+  padding: 10px;
+}
+.popupButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.showPopup {
+  background-color: #ffffff;
+  color: #223a5f;
+  height: 30px;
+  width: 60px;
+  font-family: 'Bree serif';
+  border-radius: 6px;
+  border-width: 0px;
+  cursor: pointer;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.pop-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
